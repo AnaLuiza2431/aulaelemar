@@ -45,4 +45,31 @@ ul li {
   margin-bottom: 6px;  
   list-style-type: none;
 }
+form {
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+}
 
+label {
+  display: block;
+  margin: 8px 0 4px;
+}
+
+input, textarea {
+  width: 98%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background: #0077b6;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
